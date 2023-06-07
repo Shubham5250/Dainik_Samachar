@@ -1,3 +1,3 @@
 # Dainik_Samachar
 
-Android News Application build using NewsApi, Retrofit library
+Android News Application build using NewsApi, Retrofit library!
